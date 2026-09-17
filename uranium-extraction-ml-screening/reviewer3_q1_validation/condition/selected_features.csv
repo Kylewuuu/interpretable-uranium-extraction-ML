@@ -1,0 +1,12 @@
+feature,block
+c_lig,experiment
+c_Metal_mM,experiment
+c_HNO3,experiment
+lig_MinAbsPartialCharge,descriptor
+lig_Chi4n,descriptor
+lig_1017,fingerprint
+lig_619,fingerprint
+sol_799,fingerprint
+lig_156,fingerprint
+lig_978,fingerprint
+lig_823,fingerprint

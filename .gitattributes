@@ -1,0 +1,5 @@
+uranium-extraction-ml-screening/benchmark_non_xgb_mix/Fig_S1_non_xgb_benchmark_mix_scatter.tiff filter=lfs diff=lfs merge=lfs -text
+uranium-extraction-ml-screening/reviewer3_comment4/candidate_selected_descriptor_similarity.csv filter=lfs diff=lfs merge=lfs -text
+cpp/data/Compound_127500001_128000000.sdf filter=lfs diff=lfs merge=lfs -text
+hotpot/dataset/data/SMILES.txt filter=lfs diff=lfs merge=lfs -text
+hotpot/dataset/data/SMILES_med.txt filter=lfs diff=lfs merge=lfs -text

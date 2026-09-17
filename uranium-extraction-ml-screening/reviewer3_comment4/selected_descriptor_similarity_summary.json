@@ -1,0 +1,50 @@
+{
+  "analysis": "nearest-development-ligand similarity in selected descriptor space",
+  "record_split": {
+    "test_size": 0.2,
+    "random_state": 42
+  },
+  "feature_selection": {
+    "normalized_xgboost_importance_threshold": 0.0001,
+    "absolute_pearson_correlation_threshold": 0.9,
+    "selected_descriptor_count": 23,
+    "selected_descriptors": [
+      "lig_Chi4v",
+      "lig_MaxAbsPartialCharge",
+      "lig_VSA_EState8",
+      "lig_SMR_VSA4",
+      "lig_MinAbsEStateIndex",
+      "lig_BalabanJ",
+      "lig_VSA_EState1",
+      "lig_AvgIpc",
+      "lig_Eccentricity",
+      "lig_PMI1",
+      "lig_PEOE_VSA7",
+      "lig_RadiusOfGyration",
+      "lig_SPS",
+      "lig_VSA_EState2",
+      "lig_InertialShapeFactor",
+      "lig_Ipc",
+      "lig_SpherocityIndex",
+      "lig_NPR2",
+      "lig_Kappa2",
+      "lig_FractionCSP3",
+      "lig_EState_VSA10",
+      "lig_MaxAbsEStateIndex",
+      "lig_MinPartialCharge"
+    ]
+  },
+  "distance": "nearest-neighbour RMS Euclidean distance after z-standardization",
+  "similarity": "1 / (1 + distance)",
+  "domain_boundary": {
+    "definition": "95th percentile of leave-one-out nearest-neighbour distances among unique development-set ligand profiles",
+    "distance_threshold": 1.5369830374121274,
+    "similarity_threshold": 0.394168973640462,
+    "training_loo_distance_median": 0.3001668305932066
+  },
+  "candidate_count": 1178295,
+  "unique_development_ligand_count": 42,
+  "candidate_inside_count": 14054,
+  "candidate_inside_fraction": 0.011927403578900021,
+  "candidate_similarity_median": 0.122548907995224
+}

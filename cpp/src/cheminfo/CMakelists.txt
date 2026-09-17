@@ -1,0 +1,19 @@
+project(chp_source)
+
+message(STATUS "Go into the cheminfo directory")
+message(STATUS "The OpenBabel lib path is: ${OPENBABEL_LIB_PATH}")
+message(STATUS "The OpenBabel include dir is: ${OPENBABEL_INCLUDE_DIR}")
+
+include_directories(${OPENBABEL_INCLUDE_DIR})
+add_executable(obb obb.cpp)
+target_link_libraries(obb PRIVATE ${OPENBABEL_LIB_PATH})
+# include_directories(/home/zzy/lib/openbabel/openbabel_install/include/openbabel3)
+# target_link_libraries(obb PRIVATE ${OPENBABEL_LIB_PATH})
+
+add_executable(io io.cpp)
+target_link_libraries(io PRIVATE ${OPENBABEL_LIB_PATH})
+# target_link_libraries(io PRIVATE ${OPENBABEL_LIB_PATH})
+
+
+# add_executable(mol mol.cpp)
+

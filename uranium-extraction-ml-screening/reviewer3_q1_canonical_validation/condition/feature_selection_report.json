@@ -1,0 +1,115 @@
+[
+  {
+    "block": "experiment",
+    "n_raw": 3,
+    "n_after_importance": 3,
+    "n_after_correlation": 3,
+    "n_selected": 3,
+    "selected_features": [
+      "c_lig",
+      "c_Metal_mM",
+      "c_HNO3"
+    ],
+    "selection_decision": "RFE",
+    "rfe_features": [
+      "c_lig",
+      "c_Metal_mM",
+      "c_HNO3"
+    ],
+    "rfa_features": [
+      "c_lig",
+      "c_HNO3"
+    ],
+    "rfe_cv_neg_mae": -0.3619318911872035,
+    "rfa_cv_neg_mae": -0.43534609435321636,
+    "importance_threshold": 0.0001,
+    "correlation_threshold": 0.95,
+    "recursive_candidate_cap": 60
+  },
+  {
+    "block": "descriptor",
+    "n_raw": 424,
+    "n_after_importance": 64,
+    "n_after_correlation": 40,
+    "n_selected": 1,
+    "selected_features": [
+      "lig_FpDensityMorgan1"
+    ],
+    "selection_decision": "RFA",
+    "rfe_features": [
+      "sol_Eccentricity",
+      "lig_MinAbsEStateIndex"
+    ],
+    "rfa_features": [
+      "lig_FpDensityMorgan1"
+    ],
+    "rfe_cv_neg_mae": -0.5930588868766187,
+    "rfa_cv_neg_mae": -0.5795891611950397,
+    "importance_threshold": 0.0001,
+    "correlation_threshold": 0.95,
+    "recursive_candidate_cap": 60
+  },
+  {
+    "block": "fingerprint",
+    "n_raw": 2048,
+    "n_after_importance": 97,
+    "n_after_correlation": 48,
+    "n_selected": 8,
+    "selected_features": [
+      "lig_1017",
+      "lig_156",
+      "sol_356",
+      "lig_420",
+      "lig_243",
+      "lig_259",
+      "lig_978",
+      "lig_192"
+    ],
+    "selection_decision": "RFA",
+    "rfe_features": [
+      "lig_1017",
+      "sol_259",
+      "lig_909",
+      "sol_356",
+      "lig_348",
+      "lig_283",
+      "lig_267",
+      "lig_460",
+      "lig_1",
+      "lig_418",
+      "lig_248",
+      "lig_420",
+      "lig_645",
+      "lig_243",
+      "lig_486",
+      "lig_214",
+      "sol_1",
+      "sol_364",
+      "lig_806",
+      "lig_9",
+      "lig_605",
+      "lig_980",
+      "lig_247",
+      "lig_255",
+      "lig_139",
+      "lig_259",
+      "lig_978",
+      "lig_13"
+    ],
+    "rfa_features": [
+      "lig_1017",
+      "lig_156",
+      "sol_356",
+      "lig_420",
+      "lig_243",
+      "lig_259",
+      "lig_978",
+      "lig_192"
+    ],
+    "rfe_cv_neg_mae": -0.5821158672804466,
+    "rfa_cv_neg_mae": -0.5707755478560015,
+    "importance_threshold": 0.0001,
+    "correlation_threshold": 0.95,
+    "recursive_candidate_cap": 60
+  }
+]

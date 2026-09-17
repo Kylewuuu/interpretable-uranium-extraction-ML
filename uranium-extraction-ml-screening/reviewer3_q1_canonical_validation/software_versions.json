@@ -1,0 +1,12 @@
+{
+  "Python": "3.9.19 (main, May  6 2024, 19:43:03)  [GCC 11.2.0]",
+  "platform": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "NumPy": "1.23.5",
+  "pandas": "2.2.2",
+  "SciPy": "1.13.1",
+  "scikit-learn": "1.5.2",
+  "XGBoost": "2.1.1",
+  "Optuna": "3.1.1",
+  "SHAP": "0.46.0",
+  "RDKit": "2023.09.1"
+}

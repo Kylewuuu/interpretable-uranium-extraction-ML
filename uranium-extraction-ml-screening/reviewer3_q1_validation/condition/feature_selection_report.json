@@ -1,0 +1,131 @@
+[
+  {
+    "block": "experiment",
+    "n_raw": 3,
+    "n_after_importance": 3,
+    "n_after_correlation": 3,
+    "n_selected": 3,
+    "selected_features": [
+      "c_lig",
+      "c_Metal_mM",
+      "c_HNO3"
+    ],
+    "selection_decision": "RFE",
+    "rfe_features": [
+      "c_lig",
+      "c_Metal_mM",
+      "c_HNO3"
+    ],
+    "rfa_features": [
+      "c_lig",
+      "c_HNO3"
+    ],
+    "rfe_cv_neg_mae": -0.36840455562484853,
+    "rfa_cv_neg_mae": -0.43304091360233093,
+    "importance_threshold": 0.0001,
+    "correlation_threshold": 0.95,
+    "recursive_candidate_cap": 60
+  },
+  {
+    "block": "descriptor",
+    "n_raw": 424,
+    "n_after_importance": 62,
+    "n_after_correlation": 40,
+    "n_selected": 2,
+    "selected_features": [
+      "lig_MinAbsPartialCharge",
+      "lig_Chi4n"
+    ],
+    "selection_decision": "RFE",
+    "rfe_features": [
+      "lig_MinAbsPartialCharge",
+      "lig_Chi4n"
+    ],
+    "rfa_features": [
+      "sol_qed",
+      "lig_VSA_EState4",
+      "lig_MinAbsEStateIndex",
+      "lig_AvgIpc"
+    ],
+    "rfe_cv_neg_mae": -0.5748501317959498,
+    "rfa_cv_neg_mae": -0.5711573060955655,
+    "importance_threshold": 0.0001,
+    "correlation_threshold": 0.95,
+    "recursive_candidate_cap": 60
+  },
+  {
+    "block": "fingerprint",
+    "n_raw": 2048,
+    "n_after_importance": 94,
+    "n_after_correlation": 48,
+    "n_selected": 6,
+    "selected_features": [
+      "lig_1017",
+      "lig_619",
+      "sol_799",
+      "lig_156",
+      "lig_978",
+      "lig_823"
+    ],
+    "selection_decision": "RFA",
+    "rfe_features": [
+      "lig_1017",
+      "lig_4",
+      "lig_898",
+      "lig_695",
+      "lig_247",
+      "lig_227",
+      "sol_259",
+      "lig_454",
+      "lig_114",
+      "lig_392",
+      "lig_235",
+      "lig_267",
+      "lig_460",
+      "lig_304",
+      "lig_1",
+      "lig_418",
+      "lig_248",
+      "lig_194",
+      "lig_420",
+      "lig_645",
+      "lig_619",
+      "lig_486",
+      "lig_214",
+      "sol_578",
+      "sol_1",
+      "lig_333",
+      "lig_9",
+      "lig_1008",
+      "sol_591",
+      "sol_799",
+      "sol_31",
+      "lig_348",
+      "sol_888",
+      "lig_853",
+      "lig_156",
+      "lig_83",
+      "lig_139",
+      "lig_259",
+      "lig_978",
+      "lig_13",
+      "lig_807",
+      "lig_823",
+      "lig_192",
+      "lig_591"
+    ],
+    "rfa_features": [
+      "lig_1017",
+      "lig_619",
+      "sol_799",
+      "lig_156",
+      "lig_978",
+      "lig_823"
+    ],
+    "rfe_cv_neg_mae": -0.5776933437494474,
+    "rfa_cv_neg_mae": -0.5656773592309453,
+    "importance_threshold": 0.0001,
+    "correlation_threshold": 0.95,
+    "recursive_candidate_cap": 60
+  }
+]

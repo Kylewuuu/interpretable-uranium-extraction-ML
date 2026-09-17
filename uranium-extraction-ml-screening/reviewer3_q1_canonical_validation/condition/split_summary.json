@@ -1,0 +1,17 @@
+{
+  "analysis": "condition",
+  "n_total": 1342,
+  "n_train": 1073,
+  "n_test": 269,
+  "test_fraction": 0.20044709388971685,
+  "n_train_outer_groups": 697,
+  "n_test_outer_groups": 175,
+  "outer_group_overlap": 0,
+  "n_train_ligands": 43,
+  "n_test_ligands": 32,
+  "ligand_overlap": 32,
+  "train_logd_mean": 0.11310799372994215,
+  "test_logd_mean": 0.14641921148072434,
+  "train_logd_std": 0.8167547017271292,
+  "test_logd_std": 0.8039227141076949
+}

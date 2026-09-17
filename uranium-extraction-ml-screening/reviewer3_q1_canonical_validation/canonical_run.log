@@ -1,0 +1,776 @@
+nohup: ignoring input
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:36] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:37] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+[16:57:38] 
+
+****
+Pre-condition Violation
+bad result vector size
+Violation occurred on line 40 in file /project/build/temp.linux-x86_64-cpython-39/rdkit/Code/GraphMol/Descriptors/Crippen.cpp
+Failed Expression: logpContribs.size() == mol.getNumAtoms() && mrContribs.size() == mol.getNumAtoms()
+****
+
+{
+  "row_counts": {
+    "ligand_des": 1343,
+    "sol_des": 1343,
+    "ligand_mor": 1343,
+    "sol_mor": 1343,
+    "env": 1343,
+    "target": 1343,
+    "metadata": 1343
+  },
+  "alignment_checks": {
+    "c_lig": true,
+    "c_HNO3": true,
+    "c_Metal_mM": true,
+    "D": true,
+    "logD": true
+  },
+  "n_raw_ligand_smiles": 44,
+  "n_canonical_ligands": 43,
+  "canonical_ligand_aliases": {
+    "CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC": [
+      "CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC",
+      "CCCCC(CN(C(CCC)=O)CC(CCCC)CC)CC"
+    ]
+  },
+  "n_raw_solvent_smiles": 9,
+  "n_canonical_solvents": 8,
+  "canonical_solvent_aliases": {
+    "Cc1cc(C)cc(C)c1": [
+      "CC1=CC(=CC(=C1)C)C",
+      "CC1=CC(=CC(=C1)C)C "
+    ]
+  },
+  "n_missing_target": 1,
+  "n_rows_with_any_missing_condition": 513,
+  "n_exact_duplicate_rows_including_target": 347,
+  "n_unique_input_groups": 873,
+  "all_missing_ligand_descriptor_rows": [
+    194,
+    465,
+    484,
+    526,
+    533,
+    541,
+    765,
+    1007,
+    1089
+  ],
+  "excluded_missing_target_record_indices": [
+    541
+  ],
+  "n_records_after_target_exclusion": 1342,
+  "feature_block_shapes_after_exclusion": {
+    "experiment": [
+      1342,
+      3
+    ],
+    "descriptor": [
+      1342,
+      424
+    ],
+    "fingerprint": [
+      1342,
+      2048
+    ]
+  },
+  "descriptor_repair": {
+    "requested_rows": [
+      194,
+      465,
+      484,
+      526,
+      533,
+      541,
+      765,
+      1007,
+      1089
+    ],
+    "repaired_rows": [
+      194,
+      465,
+      484,
+      526,
+      533,
+      541,
+      765,
+      1007,
+      1089
+    ],
+    "failed_rows": [],
+    "note": "Only 2D descriptors are recovered; 3D fields remain NaN."
+  },
+  "xgboost_value_sanitization": {
+    "experiment": {
+      "n_replaced_cells": 0,
+      "n_affected_rows": 0,
+      "n_affected_columns": 0,
+      "affected_columns": [],
+      "replacement": "NaN (handled natively by XGBoost)",
+      "float32_max": 3.4028234663852886e+38
+    },
+    "descriptor": {
+      "n_replaced_cells": 8,
+      "n_affected_rows": 8,
+      "n_affected_columns": 1,
+      "affected_columns": [
+        "lig_Ipc"
+      ],
+      "replacement": "NaN (handled natively by XGBoost)",
+      "float32_max": 3.4028234663852886e+38
+    },
+    "fingerprint": {
+      "n_replaced_cells": 0,
+      "n_affected_rows": 0,
+      "n_affected_columns": 0,
+      "affected_columns": [],
+      "replacement": "NaN (handled natively by XGBoost)",
+      "float32_max": 3.4028234663852886e+38
+    }
+  }
+}
+
+===== Running condition-grouped validation =====
+
+===== Running ligand-grouped validation =====
+
+Completed. Results saved to: /home/kylewu/hotpot/examples/U_logD/reviewer3_q1_canonical_validation

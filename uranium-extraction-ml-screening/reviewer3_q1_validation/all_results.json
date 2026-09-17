@@ -1,0 +1,74 @@
+[
+  {
+    "analysis": "condition",
+    "split": {
+      "analysis": "condition",
+      "n_total": 1342,
+      "n_train": 1083,
+      "n_test": 259,
+      "test_fraction": 0.19299552906110284,
+      "n_train_outer_groups": 697,
+      "n_test_outer_groups": 175,
+      "outer_group_overlap": 0,
+      "n_train_ligands": 44,
+      "n_test_ligands": 33,
+      "ligand_overlap": 33,
+      "train_logd_mean": 0.12373910941740521,
+      "test_logd_mean": 0.10325169753472176,
+      "train_logd_std": 0.8138350317715392,
+      "test_logd_std": 0.8161105515138156
+    },
+    "n_selected_features": 11,
+    "selected_features": [
+      "c_lig",
+      "c_Metal_mM",
+      "c_HNO3",
+      "lig_MinAbsPartialCharge",
+      "lig_Chi4n",
+      "lig_1017",
+      "lig_619",
+      "sol_799",
+      "lig_156",
+      "lig_978",
+      "lig_823"
+    ],
+    "development_cv": {
+      "R2": {
+        "mean": 0.8840981864647823,
+        "sd": 0.03748709222514983
+      },
+      "MAE": {
+        "mean": 0.1697507550517533,
+        "sd": 0.0197580822825475
+      },
+      "RMSE": {
+        "mean": 0.2696613115458365,
+        "sd": 0.04216551511432638
+      }
+    },
+    "train_metrics": {
+      "R2": 0.9899334166991536,
+      "MAE": 0.040173975974194025,
+      "RMSE": 0.08161628602181538
+    },
+    "holdout_metrics": {
+      "R2": 0.8023392705513759,
+      "MAE": 0.20391879887910988,
+      "RMSE": 0.3621338824179374
+    },
+    "best_params": {
+      "n_estimators": 373,
+      "learning_rate": 0.08764589184703063,
+      "max_depth": 11,
+      "subsample": 0.5482106598142964,
+      "colsample_bytree": 0.9902719081993109,
+      "reg_alpha": 0.008293003593625845,
+      "reg_lambda": 17.797769095077197,
+      "objective": "reg:squarederror",
+      "eval_metric": "mae",
+      "random_state": 42,
+      "n_jobs": -1,
+      "tree_method": "hist"
+    }
+  }
+]
